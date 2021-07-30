@@ -6,11 +6,9 @@
                                                                                                                                                  
 <p align="center"> 
 
-## 💻 Monitec
+## 💻 Econect-Web
                  
-O monitec é uma plataforma de monitoramento de funções e equipamentos de tecnologia que busca ampliar a visão de gestores de TI sobre o sistema e suas funcionalidades, oferecendo métricas para a tomada de decisão.
-                 
-Com um design baseado nas melhores práticas de UX fornece dados em tempo real para a análise da performance, ações preventivas, conexões e comunicações, entre outros. O monitec pode monitorar os seguintes itens.
+Web Serviçe Responsável pela inicialização e liberação das senhas via ftp para licenciar o econect , e também responsável pelo serviço de  encomenda para livraria Curitiba.
                  
                  
 <strong>Carga:</strong> Acompanhamento de fluxo de carga do PDV.
