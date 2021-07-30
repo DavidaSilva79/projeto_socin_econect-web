@@ -10,24 +10,6 @@
                  
 Web Serviçe Responsável pela inicialização e liberação das senhas via ftp para licenciar o econect , e também responsável pelo serviço de  encomenda para livraria Curitiba.
                  
-                 
-<strong>Carga:</strong> Acompanhamento de fluxo de carga do PDV.
-
-<strong>Hardware:</strong>  Gerenciamento funcional de Hardware.
-
-<strong>Integrações:</strong> Controle e acompanhamento das integrações. 
-
-<strong>Movimento:</strong> Follow Up e Gerenciamento de vendas.
-
-<strong>NFCE:</strong> Controle e monitoramento de cupons fiscais.
-                 
-<strong>SAT:</strong> Controle e monitoramento de de cupons fiscais.
-                 
-<strong>Serviços:</strong> Gestão de dados online. 
-                 
-<strong>Versões:</strong> Releases, concentrador, matriz, pdvs  módulos. 
-                 
-
 ## Tópicos
 
 - [Tecnologias](#-Tecnologias)
