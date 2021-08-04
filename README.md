@@ -5,7 +5,7 @@
 
 ## 💻 Econect-Web
                  
-O econect-web reúne diversos serviços sobre uma interface web como, o Econect-Encomenda que foi criado a partir de uma solicitação das livrarias Curitiba para atender encomendas de produtos, o Gerador-SenhaWEB que gera as licenças do econect que são usadas pelo Econect-LiberacaoAPI para descriptografar e fazer liberação do sistema e liberar o cliente, a também o PedidoWeb com funcionalidades referentes ao comercial da empresa como fazer a inserção de novos pedidos de clientes para a instalação do sistema, manutenção entre outros serviços.
+O econect-web reúne diversos serviços sobre uma interface web como, o Econect-Encomenda que foi criado para atender encomendas de produtos, o Gerador-SenhaWEB que gera as licenças do econect que são usadas pelo Econect-LiberacaoAPI para descriptografar e fazer liberação do sistema e liberar o cliente, a também o PedidoWeb com funcionalidades referentes ao comercial da empresa como fazer a inserção de novos pedidos de clientes para a instalação do sistema, manutenção entre outros serviços.
                  
 ## Tópicos
 
